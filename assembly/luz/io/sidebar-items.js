@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LoadError","Error when loading a LUZ file"]],"trait":[["TryFromLUZ",""]]});

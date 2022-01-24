@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["file","General structs and data"],["parser","Parsers for the data"],["reader",""]]});

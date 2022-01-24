@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PackDataStream","A stream that is either compressed or plain"]],"struct":[["PackEntryAccessor","A low level random access to the entries"],["PackFile","A low level pack file reader"],["PackStreamReader","A low level read for a file"],["ParseError","Failure when parsing"]]});

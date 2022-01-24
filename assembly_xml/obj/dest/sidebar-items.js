@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Buff","Buff Component"],["Destructible","Data for the `Destructible` component"]]});

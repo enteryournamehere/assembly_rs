@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["assembly_fdb"] = [{"text":"impl&lt;'a&gt; ToSql for <a class=\"type\" href=\"assembly_fdb/mem/type.Field.html\" title=\"type assembly_fdb::mem::Field\">Field</a>&lt;'a&gt;","synthetic":false,"types":["assembly_fdb::mem::Field"]},{"text":"impl ToSql for <a class=\"type\" href=\"assembly_fdb/core/type.Field.html\" title=\"type assembly_fdb::core::Field\">Field</a>","synthetic":false,"types":["assembly_fdb::core::Field"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

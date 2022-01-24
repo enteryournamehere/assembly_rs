@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Command","A single command"]],"fn":[["parse_line","Parse a single line of text as a command"],["push_command","Push a command to the config struct"]],"struct":[["DirSpec","Specification on which directory to include/exclude"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Failure to parse an MD5 hash"]],"fn":[["md5sum","Get the md5sum of a file"]],"mod":[["io","MD5 hash on `Read`/`Write`"],["padded","`serde` helper for binary formats"]],"struct":[["MD5Sum","MD5 hashsum of a file"]]});

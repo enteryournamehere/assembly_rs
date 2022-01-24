@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FDBBucketHeaderSlice","Invariant: length must always be a multiple of 4 bytes"],["FDBColumnHeaderSlice","Invariant: length must always be a multiple of 8 bytes"],["FDBFieldDataSlice","Invariant: length must always be a multiple of 4 bytes"],["FDBTableHeaderSlice","Invariant: length must always be a multiple of 8 bytes"]]});

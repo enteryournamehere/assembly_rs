@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","The errors for this module"]],"fn":[["expect_attribute","Expect an attribute on an opening tag and return a parsed value"],["expect_end","Expect a closing tag and return it"],["expect_start","Expect an opening tag and return it"],["expect_text","Expect some text and return it"]],"type":[["Result","The result type for this module"]]});

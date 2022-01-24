@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AccountInfo","Information on account registration"],["CdnInfo","Information on the CDN client"],["Environment","The root of the `EnvironmentInfo` endpoint"],["GameInfo","Information on the game"],["PatcherInfo","Information on downloading the game"],["Server","A single server (Universe) that can be selected"],["Servers","The list of servers"]]});

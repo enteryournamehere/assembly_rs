@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FileRef","The data associated with each file"],["PackFileRef","The data for a single pack file"],["PackIndexFile","The entire data in a PKI file"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["core","Data definitions for zone files"],["io","Reading of zone files"],["parser","Parser functions for zone file data"],["paths","Module for reading the path data in a zone file"]]});

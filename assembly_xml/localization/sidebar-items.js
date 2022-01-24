@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LocaleError","Some problem with loading a locale file"]],"fn":[["load_locale","Load a locale file"]],"struct":[["LocaleNode","A node in the locale tree"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Respawn","Data for respawn positions (?)"],["RespawnPoint","Single respawn point"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PKHandle","Handle to a PK file"]],"trait":[["PKWriter","Inversion of control to put bytes into PK"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["scan_dir","Scan a directory and call [FsVisitor::visit_file] for all files"]],"struct":[["FileInfo","Information on a file"]],"trait":[["FsVisitor","A trait to scan a directory of files"]]});

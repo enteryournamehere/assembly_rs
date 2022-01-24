@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ParseFDB","Trait that implements parsing from a FDB file"],["ParseLE","Marker trait that implies that `Self` can be parsed in little-endian mode"]]});

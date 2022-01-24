@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Compression","When compressing data, the compression level can be specified by a value in this enum."],["Converter","SD0 Converter"]]});

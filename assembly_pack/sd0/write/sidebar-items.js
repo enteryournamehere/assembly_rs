@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","An Error"]],"struct":[["Compression","When compressing data, the compression level can be specified by a value in this enum."],["SegmentedEncoder","A `sd0` encoder"]],"type":[["Result","A result"]]});

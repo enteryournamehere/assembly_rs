@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Minifig","Data for the `Minifig` component"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MAGIC_SEP","Magic bytes after files in a PK file"],["MAGIC_START","Magic bytes at the start of a PK file"]],"struct":[["PKEntryData","Payload of the [`PKEntry`]"],["PKTrailer","The header of a pack file#"]],"type":[["PKEntry","An entry for a single file"]]});

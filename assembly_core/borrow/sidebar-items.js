@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Oom","An enum that provides a mutable reference by either owning or borrowing a struct (Own or Mutable)"]]});

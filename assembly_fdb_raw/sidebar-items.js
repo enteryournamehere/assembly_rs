@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["aligned","“Normal” aligned versions of the FDB structures"],["bcast","Implementations for the `bytes_cast` crate"],["error","Error types"],["generic","Generic structures"]],"struct":[["FieldValue","The value of a single field"],["Offset","A 32-bit offset into a file"]]});

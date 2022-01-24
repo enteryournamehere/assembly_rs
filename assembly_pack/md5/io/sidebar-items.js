@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IOSum","Wrapper for [`std::io`] traits."]]});

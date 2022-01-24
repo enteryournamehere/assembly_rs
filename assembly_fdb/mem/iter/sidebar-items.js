@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BucketIter","Iterator produced by [`Table::bucket_iter`]"],["FieldIter","An iterator over fields in a row"],["RowHeaderIter","Struct that implements [`Bucket::row_iter`]."],["TableIter","Iterator created by [`Tables::iter`][`super::Tables::iter`]"],["TableRowIter","Iterator produced by [`Table::row_iter`]"]]});

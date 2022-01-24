@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ArgEffect","Whether to include or exclude the specific files"],["ArgKind","Kind of an argument"]],"struct":[["Config","Config for creating a pack file"],["PackFileArg","Argument to a pack file"],["PackFileConfig","Config for a single pack file"]]});

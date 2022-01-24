@@ -1,0 +1,11 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["assembly"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["assembly_core"] = {"name":"","files":["borrow.rs","buffer.rs","ldf.rs","lib.rs","nom_ext.rs","parser.rs","reader.rs","types.rs"]};
+sourcesIndex["assembly_data"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["assembly_fdb"] = {"name":"","dirs":[{"name":"core","files":["iter.rs","mod.rs"]},{"name":"file","files":["lists.rs","mod.rs"]},{"name":"mem","files":["c.rs","iter.rs","mod.rs"]},{"name":"query","files":["mod.rs"]},{"name":"reader","files":["builder.rs","mod.rs"]},{"name":"ro","files":["buffer.rs","handle.rs","mod.rs","slice.rs"]},{"name":"store","files":["mod.rs","writer.rs"]}],"files":["common.rs","io.rs","lib.rs","parser.rs","sqlite.rs"]};
+sourcesIndex["assembly_fdb_raw"] = {"name":"","files":["aligned.rs","bcast.rs","error.rs","generic.rs","lib.rs","map.rs"]};
+sourcesIndex["assembly_maps"] = {"name":"","dirs":[{"name":"luz","dirs":[{"name":"paths","files":["core.rs","mod.rs","parser.rs"]}],"files":["core.rs","io.rs","mod.rs","parser.rs"]},{"name":"lvl","files":["file.rs","mod.rs","parser.rs","reader.rs"]},{"name":"raw","files":["file.rs","mod.rs","parser.rs","reader.rs"]}],"files":["lib.rs"]};
+sourcesIndex["assembly_pack"] = {"name":"","dirs":[{"name":"common","files":["fs.rs","mod.rs","parser.rs","writer.rs"]},{"name":"md5","files":["fs.rs","io.rs","mod.rs","padded.rs"]},{"name":"pk","files":["file.rs","fs.rs","mod.rs","parser.rs","reader.rs","writer.rs"]},{"name":"pki","files":["core.rs","gen.rs","io.rs","mod.rs","parser.rs","writer.rs"]},{"name":"sd0","files":["fs.rs","index.rs","mod.rs","read.rs","write.rs"]},{"name":"txt","files":["gen.rs","lines.rs","mod.rs"]}],"files":["crc.rs","lib.rs"]};
+sourcesIndex["assembly_sysdiagram"] = {"name":"","files":["core.rs","io.rs","lib.rs","parser.rs"]};
+sourcesIndex["assembly_xml"] = {"name":"","dirs":[{"name":"common","files":["exact.rs","mod.rs"]},{"name":"database","files":["mod.rs"]},{"name":"obj","files":["char.rs","dest.rs","flag.rs","inv.rs","lvl.rs","mf.rs","mis.rs","mod.rs","pet.rs","res.rs"]}],"files":["all_settings.rs","behavior.rs","block_library.rs","credits.rs","env_data.rs","hud.rs","lego_primitive.rs","lib.rs","localization.rs","modular_build.rs","module_info.rs","nduiml.rs","triggers.rs","ui_settings.rs","universe_config.rs"]};
+createSourceSidebar();

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Pet","A single pet"],["Pets","Data for the `Pet Control` component"]]});

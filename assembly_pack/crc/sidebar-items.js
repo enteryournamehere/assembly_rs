@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["calculate_crc","Calculate the Cyclic-Redundancy-Check for a file path"]]});

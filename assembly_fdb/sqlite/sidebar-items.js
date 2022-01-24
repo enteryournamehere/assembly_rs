@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Enum listing possible errors from rusqlite."]],"fn":[["try_export_db","Try to export a database to a SQL connection"]],"struct":[["Connection","A connection to a SQLite database."]],"type":[["Result","A typedef of the result returned by many methods."]]});

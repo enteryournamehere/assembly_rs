@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FileError","Error when parsing a file"]],"trait":[["ParseAt","Trait to hand over a parse error past a buffer"]],"type":[["FileResult","Result when parsing a file"]]});

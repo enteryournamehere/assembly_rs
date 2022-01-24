@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Bag","A storage container"],["Bags","A list of bags"],["Group","One group"],["Inventory","Data for the `Inventory` component"],["Item","An item in an inventory"],["ItemBag","A list of items for a storage container"],["ItemExtra","Extra item information"],["Items","All items"]]});

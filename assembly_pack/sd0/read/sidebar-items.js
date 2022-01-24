@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Error type for segmented streams"]],"struct":[["SegmentedDecoder","A `sd0` streamed file"]],"type":[["Result","Result with segmented error"]]});

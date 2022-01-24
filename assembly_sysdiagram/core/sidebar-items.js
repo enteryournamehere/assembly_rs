@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Control1",""],["DSRefSchemaContents",""],["DSRefSchemaEntry",""],["Relationship",""],["SchGrid",""],["SysDiagram",""],["Table",""]]});

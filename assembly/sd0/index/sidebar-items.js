@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HeaderLine","The first line is a header of the following form:"],["SegmentLine","The rest of the file is one line for every compressed block, in the following form:"]]});

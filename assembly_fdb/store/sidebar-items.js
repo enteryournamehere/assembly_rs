@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Column","A single column"],["Database","The whole database"],["Table","A single table"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ObjectID","Object ID"],["ObjectTemplate","Alias for u32 for an object template id"],["Placement3D","Position and rotation in three dimensional space"],["Quaternion","Rotation in three dimensional space"],["Vector3f","Position in three dimensional space"],["WorldID","Alias for u32 that represents a world map from the resources"]]});

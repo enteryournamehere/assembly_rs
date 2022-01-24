@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Flag","Batch of 64 adjacent player flags"],["Flags","Data for the `PlayerFlags` component"]]});

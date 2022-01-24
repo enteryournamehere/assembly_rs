@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["builder","Extension for constructing Rustic values"]],"struct":[["FDBRowHeaderAddrIterator","Implementation of [`DatabaseReader::get_row_header_addr_iterator`]"]],"trait":[["DatabaseBufReader","Extension trait to `Seek + BufRead` for reading strings"],["DatabaseReader","Extension to `Seek + Read` to read an FDB file"]]});

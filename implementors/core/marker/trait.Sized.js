@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["assembly_fdb"] = [{"text":"impl !<a class=\"trait\" href=\"https://doc.rust-lang.org/1.58.1/core/marker/trait.Sized.html\" title=\"trait core::marker::Sized\">Sized</a> for <a class=\"struct\" href=\"assembly_fdb/common/struct.Latin1Str.html\" title=\"struct assembly_fdb::common::Latin1Str\">Latin1Str</a>","synthetic":true,"types":["assembly_fdb::common::Latin1Str"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
